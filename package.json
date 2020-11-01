@@ -1,7 +1,7 @@
 {
-  "name": "apicurso",
+  "name": "apinem",
   "version": "1.0.0",
-  "description": "API cursos",
+  "description": "API cursos / INEM",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
